@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "H:\GRG Email Filing Program\GRG.png";.  "H:\GRG Email Filing Program\email_rename.py" --additional-hooks-dir "H:\GRG Email Filing Program\Hooks"
